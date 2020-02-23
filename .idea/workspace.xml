@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="650ab6ba-62c7-454e-bae9-d581027444a6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/facade-pattern.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/facade/AccountService.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/facade/Client.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/facade/ContactService.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/facade/HotelBookerFacade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/facade/HotelService.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/facade/PaymentService.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/none-facade/AccountService.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/none-facade/Client.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/none-facade/ContactService.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/none-facade/DiscountService.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/none-facade/HotelService.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/none-facade/PaymentService.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1XxIlYb711EBk3ZMvK8uW4Yvkys" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.jetbrains.php.lang.actions.generation.PhpGenerateFieldAccessorHandlerBase$MyMemberChooser.fluent.setters.last.selected" value="true" />
+    <property name="ignore_missing_gitignore" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/facade" />
+    <property name="settings.editor.selected.configurable" value="MTConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/facade" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="650ab6ba-62c7-454e-bae9-d581027444a6" name="Default Changelist" comment="" />
+      <created>1581981470407</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581981470407</updated>
+      <workItem from="1581981471764" duration="6499000" />
+      <workItem from="1582019034062" duration="2733000" />
+      <workItem from="1582251033411" duration="3464000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="617" y="248" key="#com.intellij.ide.util.MemberChooser" timestamp="1581982674618">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="617" y="248" key="#com.intellij.ide.util.MemberChooser/0.0.1680.1050@0.0.1680.1050" timestamp="1581982674618" />
+    <state x="602" y="66" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1581985829788">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="602" y="66" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1581985829788" />
+    <state x="578" y="279" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1582251049623">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="578" y="279" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1582251049623" />
+    <state x="421" y="41" key="CommitChangelistDialog2" timestamp="1581995763907">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="421" y="41" key="CommitChangelistDialog2/0.0.1680.1050@0.0.1680.1050" timestamp="1581995763907" />
+    <state x="601" y="332" key="NewPhpClassDialog" timestamp="1582019333526">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="601" y="332" key="NewPhpClassDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1582019333526" />
+    <state x="658" y="451" key="NewPhpFileDialog" timestamp="1582022059622">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="658" y="451" key="NewPhpFileDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1582022059622" />
+    <state x="0" y="0" key="SettingsEditor" timestamp="1581999080074">
+      <screen x="0" y="0" width="800" height="600" />
+    </state>
+    <state x="341" y="164" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1581981487004" />
+    <state x="0" y="0" key="SettingsEditor/0.0.800.600@0.0.800.600" timestamp="1581999080074" />
+    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup" timestamp="1581984970412">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1581984970412" />
+  </component>
+</project>
